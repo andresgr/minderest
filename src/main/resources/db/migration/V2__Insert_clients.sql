@@ -1,0 +1,10 @@
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'MEDIAM', 'MediaMarkt');
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'WORTEN', 'Worten');
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'AMAZON', 'Amazon');
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'PCCOMP', 'PcComponentes');
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'DEPAU0', 'Depau');
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'CORTEI', 'El Corte Ingles');
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'SUREST', 'Electronica Sureste');
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'EBAY00', 'Ebay');
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'BANGGO', 'Banggood');
+INSERT INTO Client(version, client_id, client_name) VALUES(1, 'ALIEXP', 'AliExpress');
